@@ -39,8 +39,6 @@
 
 ---
 
-## 💗 final.message
+## 💗understanding systems is the first step to securing them
 
-```bash
-"understanding systems is the first step to securing them."
 ```
