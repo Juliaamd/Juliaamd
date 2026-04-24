@@ -1,16 +1,22 @@
-# 🟢 juliaamd@github:~$
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
-</p>
-
----
-
-## 🧠 system.init()
+# juliaamd@github:~$
 
 ```bash
-> Booting kernel...
-> Loading modules: security, cloud, analytics...
-> Establishing secure connection...
-> User: juliaamd
-> Status: ONLINE
+> initializing system...
+> loading modules: security | cloud | analytics
+> establishing secure connection...
+> access granted.
+user: juliaamd
+role: cybersecurity student
+
+focus:
+- cloud security
+- threat detection
+- security data analysis
+aws-iam-security-lab/
+log-threat-detector/
+mini-siem-python/
+cloud-security-monitor/
+cloud: aws (iam, ec2, s3)
+security: iam policies, cloudtrail, logs
+data: python, sql
+system: linux
