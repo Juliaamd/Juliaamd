@@ -1,14 +1,16 @@
-# 🔐 juliaamd
+# 🟢 juliaamd@github:~$
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
+</p>
 
 ---
 
-## 🧠 Initializing Julia's Cyber Lab...
+## 🧠 system.init()
 
 ```bash
-> Booting system...
-> Loading security modules...
-> Connecting to cloud...
+> Booting kernel...
+> Loading modules: security, cloud, analytics...
+> Establishing secure connection...
 > User: juliaamd
-> Status: ACTIVE
+> Status: ONLINE
