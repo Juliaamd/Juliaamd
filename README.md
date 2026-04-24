@@ -2,19 +2,16 @@
 
 # Julia Almeida
 
-<<p>
+<p>
 <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=22&center=true&vCenter=true&width=650&lines=INITIALIZING+SYSTEM...;FIREWALL+DETECTED...;ACCESS+DENIED...;BYPASSING+SECURITY...;ACCESS+GRANTED...;SYSTEM+ONLINE" />
 </p>
 </div>
 
 ---
 
-```bash
 > software engineering student
-> aws cloud | cybersecurity
-> focused on secure systems & real-world scenarios
-```
-
+> focused on cybersecurity, cloud computing & AWS ecosystem
+> building secure systems and real-world cloud security labs
 ---
 
 <p align="center">
@@ -26,3 +23,19 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-FF69B4?style=for-the-badge&logo=bitcoin&logoColor=black)
 
 </p>
+<p align="center">
+---
+```diff
++ ACCESS GRANTED
++ juliaamd connected
+```
+
+</p>
+
+---
+
+## 💗 final.message
+
+```bash
+"understanding systems is the first step to securing them."
+```
