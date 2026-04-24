@@ -5,13 +5,15 @@
 <p>
 <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=22&center=true&vCenter=true&width=650&lines=INITIALIZING+SYSTEM...;FIREWALL+DETECTED...;ACCESS+DENIED...;BYPASSING+SECURITY...;ACCESS+GRANTED...;SYSTEM+ONLINE" />
 </p>
+
 </div>
 
 ---
 
-> software engineering student
-> focused on cybersecurity, cloud computing & AWS ecosystem
-> building secure systems and real-world cloud security labs
+> software engineering student  
+> focused on cybersecurity, cloud computing & AWS ecosystem  
+> building secure systems and real-world cloud security labs  
+
 ---
 
 <p align="center">
@@ -23,8 +25,11 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-FF69B4?style=for-the-badge&logo=bitcoin&logoColor=black)
 
 </p>
-<p align="center">
+
 ---
+
+<p align="center">
+
 ```diff
 + ACCESS GRANTED
 + juliaamd connected
