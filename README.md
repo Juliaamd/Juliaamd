@@ -4,76 +4,18 @@
 
 </div>
 
----
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=24&center=true&vCenter=true&width=900&lines=>>>+INITIALIZING+INTRUSION...;>>>+BYPASSING+FIREWALL...;>>>+ACCESSING+CLOUD+SYSTEMS...;>>>+THREAT+DETECTION+ONLINE...;>>>+WELCOME+JULIA" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=24&center=true&vCenter=true&width=850&lines=>>>+INITIALIZING+SYSTEM...;>>>+CONNECTING+TO+CLOUD...;>>>+SECURITY+MODULES+ACTIVE...;>>>+THREAT+DETECTION+RUNNING..." />
 </p>
 
 ---
 
-## 💻 intrusion.log
-
-```diff
-! unauthorized access detected...
-! bypassing authentication...
-+ access granted
-+ privilege escalation: SUCCESS
-```
-
----
-
-## 🧠 system.override()
-
 ```bash
-user: juliaamd
-mode: cyber attack simulation
-
-target:
-- cloud environments
-- insecure systems
-- misconfigured permissions
+> software engineering student
+> focused on aws cloud & security
+> interested in threat detection
+> building real-world security labs
 ```
-
----
-
-## 🕵️ terminal
-
-```bash
-juliaamd@github:~$ scan --cloud
-searching for vulnerabilities...
-
-juliaamd@github:~$ exploit iam_misconfig
-access level: escalated
-
-juliaamd@github:~$ inject logs
-tracking suspicious activity...
-```
-
----
-
-## 🧪 labs
-
-```bash
-aws-iam-security-lab/
-log-threat-detector/
-mini-siem-python/
-cloud-security-monitor/
-```
-
----
-
-## 🚨 system.breach()
-
-```diff
-+ cloud vulnerability detected
-+ privilege escalation possible
-+ logs under analysis
-- system fully secure (false)
-```
-
----
-
 ## ⚡ live.status
 
 ```bash
